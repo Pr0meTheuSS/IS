@@ -1,4 +1,5 @@
 # help
+```
 ~/Р/i/IS/ceasar/build/Release feature/ceasar ?1 ❯ ./ceasar --help                                                    х INT 17:16:34
 Caesar cipher CLI tool
 Usage:
@@ -11,7 +12,7 @@ Usage:
   -k, --key arg   Shift key (for enc/dec) (default: 0)
   -d, --dict arg  Dictionary file (for dict mode) (default: "")
   -h, --help      Show help
-
+```
 # manual test
 - cd ./build/Release
 - echo "hello world" > input.txt
